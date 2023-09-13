@@ -1,0 +1,5 @@
+# # ignore all files/directories with which match these
+**/.DS_Store
+**/.sass-cache
+**/node_modules
+config-server-env.json
